@@ -9,8 +9,7 @@ User Query
     │
     ▼
 ┌──────────────────┐
-│  Streamlit /     │
-│  Gradio UI       │
+│  Streamlit       │      
 └───────┬──────────┘
         │ POST /query
         ▼
