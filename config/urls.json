@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "type": "scheme_page",
+    "scheme": "HDFC Mid Cap Fund",
+    "format": "html"
+  },
+  {
+    "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+    "type": "scheme_page",
+    "scheme": "HDFC Small Cap Fund",
+    "format": "html"
+  },
+  {
+    "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+    "type": "scheme_page",
+    "scheme": "HDFC Gold ETF Fund of Fund",
+    "format": "html"
+  },
+  {
+    "url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+    "type": "scheme_page",
+    "scheme": "HDFC Defence Fund",
+    "format": "html"
+  },
+  {
+    "url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+    "type": "scheme_page",
+    "scheme": "HDFC Silver ETF FoF",
+    "format": "html"
+  },
+  {
+    "url": "https://www.amfiindia.com/investor-education",
+    "type": "guidance",
+    "scheme": null,
+    "format": "html"
+  },
+  {
+    "url": "https://www.sebi.gov.in/investor-education",
+    "type": "guidance",
+    "scheme": null,
+    "format": "html"
+  }
+]

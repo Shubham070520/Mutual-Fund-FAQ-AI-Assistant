@@ -1,0 +1,45 @@
+{
+  "amc_name": "HDFC Mutual Fund",
+  "schemes": [
+    {
+      "name": "HDFC Mid Cap Fund",
+      "category": "mid-cap",
+      "groww_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "factsheet_url": "https://www.hdfcfund.com/media/document/hdfc-mid-cap-fund-factsheet",
+      "kim_url": "https://www.hdfcfund.com/media/document/hdfc-mid-cap-fund-kim",
+      "sid_url": "https://www.hdfcfund.com/media/document/hdfc-mid-cap-fund-sid"
+    },
+    {
+      "name": "HDFC Small Cap Fund",
+      "category": "small-cap",
+      "groww_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "factsheet_url": "https://www.hdfcfund.com/media/document/hdfc-small-cap-fund-factsheet",
+      "kim_url": "https://www.hdfcfund.com/media/document/hdfc-small-cap-fund-kim",
+      "sid_url": "https://www.hdfcfund.com/media/document/hdfc-small-cap-fund-sid"
+    },
+    {
+      "name": "HDFC Gold ETF Fund of Fund",
+      "category": "gold-etf-fof",
+      "groww_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "factsheet_url": "https://www.hdfcfund.com/media/document/hdfc-gold-etf-fof-factsheet",
+      "kim_url": "https://www.hdfcfund.com/media/document/hdfc-gold-etf-fof-kim",
+      "sid_url": "https://www.hdfcfund.com/media/document/hdfc-gold-etf-fof-sid"
+    },
+    {
+      "name": "HDFC Defence Fund",
+      "category": "sectoral-defence",
+      "groww_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+      "factsheet_url": "https://www.hdfcfund.com/media/document/hdfc-defence-fund-factsheet",
+      "kim_url": "https://www.hdfcfund.com/media/document/hdfc-defence-fund-kim",
+      "sid_url": "https://www.hdfcfund.com/media/document/hdfc-defence-fund-sid"
+    },
+    {
+      "name": "HDFC Silver ETF FoF",
+      "category": "silver-etf-fof",
+      "groww_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+      "factsheet_url": "https://www.hdfcfund.com/media/document/hdfc-silver-etf-fof-factsheet",
+      "kim_url": "https://www.hdfcfund.com/media/document/hdfc-silver-etf-fof-kim",
+      "sid_url": "https://www.hdfcfund.com/media/document/hdfc-silver-etf-fof-sid"
+    }
+  ]
+}

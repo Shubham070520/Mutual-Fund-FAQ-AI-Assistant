@@ -1,0 +1,41 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Data (keep structure, ignore contents)
+data/raw/*
+data/processed/*
+data/vectordb/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vectordb/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Models
+*.bin
+*.pt
+*.pth
+models/
