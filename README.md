@@ -165,10 +165,6 @@ python -m uvicorn src.api.main:app --host 0.0.0.0 --port 8000
 python -m streamlit run src/ui/app.py --server.port 8501
 ```
 
-- **API:** http://localhost:8000
-- **API Docs:** http://localhost:8000/docs
-- **Frontend:** http://localhost:8501
-
 ### Run Ingestion Pipeline (one-time data setup)
 
 ```bash
